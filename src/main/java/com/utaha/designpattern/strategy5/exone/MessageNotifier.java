@@ -1,7 +1,7 @@
-package com.utaha.designpattern.strategy5;
+package com.utaha.designpattern.strategy5.exone;
 
 
-import com.utaha.designpattern.strategy5.pojo.User;
+import com.utaha.designpattern.strategy5.exone.pojo.User;
 
 public interface MessageNotifier {
 

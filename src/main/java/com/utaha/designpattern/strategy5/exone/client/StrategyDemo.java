@@ -1,10 +1,10 @@
-package com.utaha.designpattern.strategy5.client;
+package com.utaha.designpattern.strategy5.exone.client;
 
 
-import com.utaha.designpattern.strategy5.MessageNotifier;
-import com.utaha.designpattern.strategy5.impl.AppMessageNotifier;
-import com.utaha.designpattern.strategy5.impl.SMSMessageNotifier;
-import com.utaha.designpattern.strategy5.pojo.User;
+import com.utaha.designpattern.strategy5.exone.MessageNotifier;
+import com.utaha.designpattern.strategy5.exone.impl.AppMessageNotifier;
+import com.utaha.designpattern.strategy5.exone.impl.SMSMessageNotifier;
+import com.utaha.designpattern.strategy5.exone.pojo.User;
 
 import java.util.ArrayList;
 import java.util.List;

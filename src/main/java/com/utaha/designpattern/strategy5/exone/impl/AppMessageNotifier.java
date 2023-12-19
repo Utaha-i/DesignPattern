@@ -1,8 +1,8 @@
-package com.utaha.designpattern.strategy5.impl;
+package com.utaha.designpattern.strategy5.exone.impl;
 
 
-import com.utaha.designpattern.strategy5.MessageNotifier;
-import com.utaha.designpattern.strategy5.pojo.User;
+import com.utaha.designpattern.strategy5.exone.MessageNotifier;
+import com.utaha.designpattern.strategy5.exone.pojo.User;
 
 /**
  * App通知Api

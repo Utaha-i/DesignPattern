@@ -1,4 +1,4 @@
-package com.utaha.designpattern.strategy5.pojo;
+package com.utaha.designpattern.strategy5.exone.pojo;
 
 import lombok.Data;
 
