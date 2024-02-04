@@ -29,7 +29,7 @@ public class WesternEurope extends TravelImpl {
 
     @Override
     public void backHome() {
-        System.out.println("希望这个夏天不会落幕！");
+        System.out.println("希望这个夏天永远不会落幕！");
     }
 
     @Override
